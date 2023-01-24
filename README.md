@@ -1,4 +1,4 @@
-# Lab7
+# Lab7 Vegenere Chiper implementation 
 Lab7 from V. Tarasov cybersec course.
 
 I used python3.
